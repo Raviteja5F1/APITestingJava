@@ -17,7 +17,7 @@ This project is an example of API automation using REST Assured library with Cuc
 - Maven
 - Cucumber
 - REST Assured
-- Intelij
+- Intellij
 
 
 ## Setup Instructions
