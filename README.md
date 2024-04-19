@@ -13,7 +13,7 @@ This project is an example of API automation using REST Assured library with Cuc
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 11 or higher
 - Maven
 - Cucumber
 - REST Assured
